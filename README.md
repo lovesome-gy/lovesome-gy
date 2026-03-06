@@ -87,7 +87,7 @@
 
 ## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[lovesome-gy]&show_icons=true&theme=radical)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=[lovesome-gy]&show_icons=true&theme=radical)-->
 
 - 📧 **Email**: sgy0625@naver.com
 - 📝 **Blog**: https://blog.naver.com/sgy0625
