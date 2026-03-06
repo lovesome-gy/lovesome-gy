@@ -81,7 +81,7 @@
 | **25.10 ~ 11**<br>쉼 | **AI활용 감정 일기**<br>사용자 감정 일기 데이터 기반 리포트 제공 | **AI & BE / TEAM LEADER**<br>Spring Boot, Upstage AI | [📁](https://github.com/ISFX-aka/BE) |
 | **25.08**<br>DOMO | **대학생 데이트 코스 추천**<br>위치 기반 맞춤형 데이트 장소 큐레이션 | **Backend**<br>Spring Boot, MySQL | [📁](https://github.com/Wangjonghui/domo-be) |
 | **25.08 ~ 11**<br>너드수학 | **너드수학**<br>AI프롬프팅을 통한 수학 문제 개발 | **AI & BE**<br>Python | [📁](추후 첨부) |
-| **25.03 ~ 10**<br>ssajava | **자바(잡아)**<br>팀원 매칭 웹앱 구현 | **FE&QA**<br>React | [📁](추후 첨부) |
+| **25.03 ~ 10**<br>ssajava | **자바(잡아)**<br>팀원 매칭 웹앱 구현 | **FE&QA**<br>React | [📁](https://github.com/ssajava/Front-End) |
 
 ---
 
