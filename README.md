@@ -1,53 +1,76 @@
 # I'm GaYeon
 
-- 🎓 Major: 영어영문학과 (2022) / 컴퓨터공학부 소프트웨어 전공 (2023 ~)
-- 🛠 Main Focus: Backend Development
-- 🏛 Activity: 
-  * 
+### "리더십과 기술력을 지닌 엔지니어입니다."
+
+- 🎓 **Major**:
+  * 영어영문학과(2022)
+  * 컴퓨터공학부 (2023 ~ 재학 중)
+- 🏛 **Leadership**:
+  * 멋쟁이사자처럼 14TH BE 운영진
+  * 멋쟁이사자처럼 14TH 중앙운영단 **부의장**
+  * 멋쟁이사자처럼 14TH 중앙운영단 운영팀
+- 🛠 **Focus**: Scalable Backend, Data-driven AI Services, User-centric Frontend
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages & Frameworks
+### 🔹 Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Infrastructure & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🔹 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🔹 AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🔹 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-> Achievement: 리눅스마스터 2급 (96점 기록)
+<!--![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)-->
 
 ---
 
 ## 💼 Experience
 
-- **프리랜서 개발자 (Freelance Developer)** (2025.12 ~ 현재)
-    - 기업 서버 침해 사고 대응 및 시스템 현대화 재구축 프로젝트 수행
-- **멋쟁이사자처름 13기 운영진** (2025.12 ~ 2026.12)
-    - 백엔드 트랙 커리큘럼 설계 및 멘토링
-- **정보처리기사 취득** (2025.09)
+### 🦁 멋쟁이사자처럼 (LikeLion)
+* **14기 중앙운영단 부의장** (2026.01 ~ 현재)
+* **14기 중앙운영단 운영팀** (2026.01 ~ 현재)
+* **14기 백엔드(BE) 운영진** (2026.01 ~ 현재)
+* **13기 백엔드 아기사자** (2025.03 ~ 2025.12)
+    * 활동 내용: [여기에 주요 학습 내용 및 수행한 프로젝트 핵심 요약을 입력하세요]
+
+### 💻 Others
+* **컴퓨터공학부 전공** (2023.03 ~ 현재)
+* 제64대 총학생회 비상대책위원회 대외협력국 부장 (2024.03.~06.)
+* 제64대 총학생회 비상대책위원회 대외협력국 국장 (2024.07.~12.)
+* 제1대 자유전공학부 TA (2025.01.~12.)
+* 제1대 자유전공학부 총무부장 (2025.01.~12.)
+* 제66대 총학생회 비상대책위원회 부위원장 (2026.01.~)
 
 ---
 
-## 📅 Project Timeline
+## 📅 Project Timeline (Mock Data)
 
-| Period & Project | Key Service & Value 💎 | Role & Tech | Links 🔗 |
+| Period & Project | Key Service & Value | Role & Tech | Links |
 | :--- | :--- | :--- | :---: |
-| **26.02 ~ 26.03**<br>기업 시스템 재구축 | **인프라 복구 및 현대화**<br>랜섬웨어 감염 서버 분석 및 신규 아키텍처 설계 | **Lead Developer**<br>Linux, Docker, Recovery | [📁](링크) |
-| **26.02 ~ 26.02**<br>Manito Website | **7인 그룹 실시간 매칭**<br>중복 및 상호 매칭 방지 로직 구현 | **Full-stack**<br>Node.js, React | [📁](링크) |
-| **26.01 ~ 26.02**<br>Mental Care | **수면 패턴 분석 기반 케어**<br>데이터 기반 맞춤형 정신 건강 피드백 서비스 | **Backend**<br>Python, FastAPI | [📁](링크) |
-| **25.05 ~ 25.10**<br>Foodmap | **실시간 길거리 음식 지도**<br>사용자 참여형 푸드트럭 위치 공유 알림 | **Backend**<br>Spring Boot, AWS | [📁](링크) |
+| **26.02 ~ **<br>Career-HI | **AI 맞춤형 취업 리포트**<br>이력 데이터 기반 커리어 분석 아키텍처 구축 | **Backend**<br>Spring Boot, OpenAI | [📁](링크) |
+| **25.12 ~ 26.02**<br>공식 홈페이지 | **동아리 전용 통합 LMS**<br>RBAC 검증 및 복합 API 구축 | **Backend**<br>Spring Boot, MySQL | [📁](링크) |
+| **25.10 ~ 11**<br>SafePath | **안심 등하교 컨설팅 AI**<br>LLM 활용 데이터 기반 안전 리포트 제공 | **AI & BE**<br>Python, Upstage AI | [📁](링크) |
 
 ---
 
-## 📊 Stats & Contact
+## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=radical)
 
-- 📧 **Email**: [이메일 주소]
-- 📝 **Blog**: [블로그 주소]
-- 💬 **Open Chat**: [카카오톡 등 연락처]
+- 📧 **Email**: sgy0625@naver.com
+- 📝 **Blog**: 
+---
