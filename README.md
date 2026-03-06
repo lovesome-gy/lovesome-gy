@@ -26,6 +26,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](
 
 ### 🔹 AI & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,7 +46,7 @@
 * **14기 중앙운영단 운영팀** (2026.01 ~ 현재)
 * **14기 백엔드(BE) 운영진** (2026.01 ~ 현재)
 * **13기 백엔드 아기사자** (2025.03 ~ 2025.12)
-    * 활동 내용: [여기에 주요 학습 내용 및 수행한 프로젝트 핵심 요약을 입력하세요]
+    * 활동 내용: [Spring Boot 기초 및 AWS 배포 실습]
 
 ### 💻 Others
 * **컴퓨터공학부 전공** (2023.03 ~ 현재)
@@ -57,11 +58,20 @@
 
 ---
 
+## 🏆 Competition Experience
+| 날짜	| 대회	| 프로젝트	수상 |
+| :--- | :--- | :--- |
+| 2024 | 항공항행학회 | 우수논문상 |
+| 2025.07~10 |	한이음프로젝트 '너드수학' | - |
+| 2025.08 |	멋사대학 13기 중앙해커톤	DOMO | - |
+| 2025.10 | 2025 교내 SW경진대회 | 우수상 |
+| 2025.11 |	2025 간지톤 '쉼' | - |
+
 ## 📅 Project Timeline (Mock Data)
 
 | Period & Project | Key Service & Value | Role & Tech | Links |
 | :--- | :--- | :--- | :---: |
-| **26.02 ~ **<br>Career-HI | **AI 맞춤형 취업 리포트**<br>이력 데이터 기반 커리어 분석 아키텍처 구축 | **Backend**<br>Spring Boot, OpenAI | [📁](링크) |
+| **26.02 ~ 현재**<br>Career-HI | **AI 맞춤형 취업 리포트**<br>이력 데이터 기반 커리어 분석 아키텍처 구축 | **Backend**<br>Spring Boot, OpenAI | [📁](링크) |
 | **25.12 ~ 26.02**<br>공식 홈페이지 | **동아리 전용 통합 LMS**<br>RBAC 검증 및 복합 API 구축 | **Backend**<br>Spring Boot, MySQL | [📁](링크) |
 | **25.10 ~ 11**<br>SafePath | **안심 등하교 컨설팅 AI**<br>LLM 활용 데이터 기반 안전 리포트 제공 | **AI & BE**<br>Python, Upstage AI | [📁](링크) |
 
