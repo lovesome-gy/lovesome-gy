@@ -76,10 +76,12 @@
 | Period & Project | Key Service & Value | Role & Tech | Links |
 | :--- | :--- | :--- | :---: |
 | **26.02 ~ 현재**<br>Career-HI | **AI 맞춤형 취업 리포트**<br>이력 데이터 기반 커리어 분석 아키텍처 구축 | **Backend**<br>Spring Boot, OpenAI, MySQL | [📁](https://github.com/syu-HackathonTeam/career-hi-back) |
-| **26.02**<br>PAUSE | 아이디어톤**<br>심리 분석 기반 수면 패턴 분석  | **Backend**<br>Spring Boot, OpenAI, MySQL | [📁](추후 첨부) |
-| **25.08**<br>DOMO | **대학생 데이트 코스 추천**<br>위치 기반 맞춤형 데이트 장소 큐레이션 | **Backend**<br>Spring Boot, MySQL | [📁](https://github.com/Wangjonghui/domo-be) |
+| **26.02**<br>PAUSE | **아이디어톤**<br>심리 분석 기반 수면 패턴 분석  | **Backend**<br>Spring Boot, OpenAI, MySQL | [📁](추후 첨부) |
+| **25.09 ~25.12**<br>캡스톤 | **음악 플레이리스트 추천**<br>사용자 청취 기반 플레이리스트 추천 | **PM/DE**<br>Spring Boot, Figma | [📁](https://github.com/25-2capstone) |
 | **25.10 ~ 11**<br>쉼 | **AI활용 감정 일기**<br>사용자 감정 일기 데이터 기반 리포트 제공 | **AI & BE / TEAM LEADER**<br>Spring Boot, Upstage AI | [📁](https://github.com/ISFX-aka/BE) |
+| **25.08**<br>DOMO | **대학생 데이트 코스 추천**<br>위치 기반 맞춤형 데이트 장소 큐레이션 | **Backend**<br>Spring Boot, MySQL | [📁](https://github.com/Wangjonghui/domo-be) |
 | **25.08 ~ 11**<br>너드수학 | **너드수학**<br>AI프롬프팅을 통한 수학 문제 개발 | **AI & BE**<br>Python | [📁](추후 첨부) |
+| **25.03 ~ 10**<br>ssajava | **자바(잡아)**<br>팀원 매칭 웹앱 구현 | **FE&QA**<br>React | [📁](추후 첨부) |
 
 ---
 
