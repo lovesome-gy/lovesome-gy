@@ -69,23 +69,24 @@
 | 2025.08 |	멋사대학 13기 중앙해커톤	DOMO | - |
 | 2025.10 | 2025 교내 SW경진대회 | 우수상 |
 | 2025.11 |	2025 간지톤 '쉼' | - |
+| 2026.02 | 2025 동계 교내 SW건강과학 아이디어톤 | 3위 |
 
 ## 📅 Project Timeline
 
 | Period & Project | Key Service & Value | Role & Tech | Links |
 | :--- | :--- | :--- | :---: |
-| **26.02 ~ 현재**<br>Career-HI | **AI 맞춤형 취업 리포트**<br>이력 데이터 기반 커리어 분석 아키텍처 구축 | **Backend**<br>Spring Boot, OpenAI, MySQL | [📁](링크) |
-| **26.02**<br>PAUSE | 아이디어톤**<br>이력 데이터 기반 커리어 분석 아키텍처 구축 | **Backend**<br>Spring Boot, OpenAI, MySQL | [📁](링크) |
-| **25.08**<br>DOMO | **대학생 데이트 코스 추천**<br>위치 기반 맞춤형 데이트 장소 큐레이션 | **Backend**<br>Spring Boot, MySQL | [📁](링크) |
-| **25.10 ~ 11**<br>쉼 | **AI활용 감정 일기**<br>사용자 감정 일기 데이터 기반 리포트 제공 | **AI & BE / TEAM LEADER**<br>Spring Boot, Upstage AI | [📁](링크) |
-| **25.08 ~ 11**<br>너드수학 | **너드수학**<br>AI프롬프팅을 통한 수학 문제 개발 | **AI & BE**<br>Python | [📁](링크) |
+| **26.02 ~ 현재**<br>Career-HI | **AI 맞춤형 취업 리포트**<br>이력 데이터 기반 커리어 분석 아키텍처 구축 | **Backend**<br>Spring Boot, OpenAI, MySQL | [📁](https://github.com/syu-HackathonTeam/career-hi-back) |
+| **26.02**<br>PAUSE | 아이디어톤**<br>심리 분석 기반 수면 패턴 분석  | **Backend**<br>Spring Boot, OpenAI, MySQL | [📁](추후 첨부) |
+| **25.08**<br>DOMO | **대학생 데이트 코스 추천**<br>위치 기반 맞춤형 데이트 장소 큐레이션 | **Backend**<br>Spring Boot, MySQL | [📁](https://github.com/Wangjonghui/domo-be) |
+| **25.10 ~ 11**<br>쉼 | **AI활용 감정 일기**<br>사용자 감정 일기 데이터 기반 리포트 제공 | **AI & BE / TEAM LEADER**<br>Spring Boot, Upstage AI | [📁](https://github.com/ISFX-aka/BE) |
+| **25.08 ~ 11**<br>너드수학 | **너드수학**<br>AI프롬프팅을 통한 수학 문제 개발 | **AI & BE**<br>Python | [📁](추후 첨부) |
 
 ---
 
 ## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=[lovesome-gy]&show_icons=true&theme=radical)
 
 - 📧 **Email**: sgy0625@naver.com
-- 📝 **Blog**: 
+- 📝 **Blog**: https://blog.naver.com/sgy0625
 ---
