@@ -1,4 +1,4 @@
-# GaYeon a.k.a lovesome-gy
+# 佳姸 (GaYeon) a.k.a lovesome-gy
 
 ### "리더십과 기술력을 지닌 엔지니어입니다."
 
