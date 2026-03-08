@@ -9,7 +9,7 @@
   * 멋쟁이사자처럼 14TH BE 운영진
   * 멋쟁이사자처럼 14TH 중앙운영단 **부의장**
   * 멋쟁이사자처럼 14TH 중앙운영단 운영팀
-- 🛠 **Focus**: Scalable Backend, Data-driven AI Services, User-centric Frontend
+<!--- 🛠 **Focus**: Scalable Backend, Data-driven AI Services, User-centric Frontend-->
 
 ---
 
